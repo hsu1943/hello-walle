@@ -8,6 +8,7 @@
  */
 
 $config = [
+    'name' => 'Demo',
     'log' => [
         'path' => __DIR__ . '/../runtime/log/',
     ],
