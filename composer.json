@@ -1,0 +1,15 @@
+{
+  "name": "ducksoft/hello-walle",
+  "description": "a demo for walle framework",
+  "type": "project",
+  "lisence": "MIT",
+  "authors": [
+    {
+      "name": "hsu1943"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "ducksoft/walle": "dev-master"
+  }
+}
